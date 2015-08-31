@@ -159,18 +159,6 @@
         },
         {
             "name": "twig/twig",
-<<<<<<< HEAD
-            "version": "v1.18.2",
-            "source": {
-                "type": "git",
-                "url": "https://github.com/twigphp/Twig.git",
-                "reference": "e8e6575abf6102af53ec283f7f14b89e304fa602"
-            },
-            "dist": {
-                "type": "zip",
-                "url": "https://api.github.com/repos/twigphp/Twig/zipball/e8e6575abf6102af53ec283f7f14b89e304fa602",
-                "reference": "e8e6575abf6102af53ec283f7f14b89e304fa602",
-=======
             "version": "v1.20.0",
             "source": {
                 "type": "git",
@@ -181,7 +169,6 @@
                 "type": "zip",
                 "url": "https://api.github.com/repos/twigphp/Twig/zipball/1ea4e5f81c6d005fe84d0b38e1c4f1955eb86844",
                 "reference": "1ea4e5f81c6d005fe84d0b38e1c4f1955eb86844",
->>>>>>> 7e9d11224d888b6fb5243642f7246de387a60817
                 "shasum": ""
             },
             "require": {
@@ -225,11 +212,7 @@
             "keywords": [
                 "templating"
             ],
-<<<<<<< HEAD
-            "time": "2015-06-06 23:31:24"
-=======
             "time": "2015-08-12 15:56:39"
->>>>>>> 7e9d11224d888b6fb5243642f7246de387a60817
         }
     ],
     "packages-dev": [
@@ -533,18 +516,6 @@
         },
         {
             "name": "phpunit/php-timer",
-<<<<<<< HEAD
-            "version": "1.0.6",
-            "source": {
-                "type": "git",
-                "url": "https://github.com/sebastianbergmann/php-timer.git",
-                "reference": "83fe1bdc5d47658b727595c14da140da92b3d66d"
-            },
-            "dist": {
-                "type": "zip",
-                "url": "https://api.github.com/repos/sebastianbergmann/php-timer/zipball/83fe1bdc5d47658b727595c14da140da92b3d66d",
-                "reference": "83fe1bdc5d47658b727595c14da140da92b3d66d",
-=======
             "version": "1.0.7",
             "source": {
                 "type": "git",
@@ -555,7 +526,6 @@
                 "type": "zip",
                 "url": "https://api.github.com/repos/sebastianbergmann/php-timer/zipball/3e82f4e9fc92665fafd9157568e4dcb01d014e5b",
                 "reference": "3e82f4e9fc92665fafd9157568e4dcb01d014e5b",
->>>>>>> 7e9d11224d888b6fb5243642f7246de387a60817
                 "shasum": ""
             },
             "require": {
@@ -583,11 +553,7 @@
             "keywords": [
                 "timer"
             ],
-<<<<<<< HEAD
-            "time": "2015-06-13 07:35:30"
-=======
             "time": "2015-06-21 08:01:12"
->>>>>>> 7e9d11224d888b6fb5243642f7246de387a60817
         },
         {
             "name": "phpunit/php-token-stream",
@@ -763,18 +729,6 @@
         },
         {
             "name": "symfony/yaml",
-<<<<<<< HEAD
-            "version": "v2.7.1",
-            "source": {
-                "type": "git",
-                "url": "https://github.com/symfony/Yaml.git",
-                "reference": "9808e75c609a14f6db02f70fccf4ca4aab53c160"
-            },
-            "dist": {
-                "type": "zip",
-                "url": "https://api.github.com/repos/symfony/Yaml/zipball/9808e75c609a14f6db02f70fccf4ca4aab53c160",
-                "reference": "9808e75c609a14f6db02f70fccf4ca4aab53c160",
-=======
             "version": "v2.7.3",
             "source": {
                 "type": "git",
@@ -785,7 +739,6 @@
                 "type": "zip",
                 "url": "https://api.github.com/repos/symfony/Yaml/zipball/71340e996171474a53f3d29111d046be4ad8a0ff",
                 "reference": "71340e996171474a53f3d29111d046be4ad8a0ff",
->>>>>>> 7e9d11224d888b6fb5243642f7246de387a60817
                 "shasum": ""
             },
             "require": {
@@ -821,11 +774,7 @@
             ],
             "description": "Symfony Yaml Component",
             "homepage": "https://symfony.com",
-<<<<<<< HEAD
-            "time": "2015-06-10 15:30:22"
-=======
             "time": "2015-07-28 14:07:07"
->>>>>>> 7e9d11224d888b6fb5243642f7246de387a60817
         }
     ],
     "aliases": [],
