@@ -3,7 +3,7 @@ $(function(){
         uiColor: '#FAFAFA',
         toolbarCanCollapse: true,
         toolbarGroups: [
-            { name: 'document',    groups: [ 'mode'/*, 'document', 'doctools' */] },
+            //{ name: 'document',    groups: [ 'mode'/*, 'document', 'doctools' */] },
             { name: 'clipboard',   groups: [ 'clipboard' ] },
             { name: 'undo',   groups: [ 'undo' ] },
             //{ name: 'editing',     groups: [ 'find', 'selection', 'spellchecker' ] },

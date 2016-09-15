@@ -33,7 +33,7 @@ class Connection
 
     protected function getPdoObject($config)
     {
-        $dsn = $config->driver . ':host=' . $config->host . ';dbname=' . $config->dbname;
+        $dsn = $config->driver . ':host=' . $config->host . ';dbname=' . $config->dbname . ';charset=utf8';
         $options = [];
         if (!empty($config->options)) {
             $options = $config->options->toArray();

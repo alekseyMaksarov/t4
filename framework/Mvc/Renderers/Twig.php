@@ -29,6 +29,7 @@ class Twig
         ]);
         $this->twig->addGlobal('app', $this->links->app);
         $this->twig->addExtension(new TwigExtensions());
+        $this->twig->addExtension(new \Twig_Extensions_Extension_Intl());
     }
 
     public function setView(View $view)

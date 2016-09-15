@@ -13,7 +13,8 @@
     "php": ">=5.4.0",
     "twig/twig": "1.*",
     "phpmailer/phpmailer": "5.*",
-    "phpoffice/phpword": "dev-master"
+    "phpoffice/phpword": "dev-master",
+    "twig/extensions": "~1.3@dev"
   },
   "require-dev": {
     "phing/phing": "2.*",
